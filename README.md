@@ -27,5 +27,5 @@ Place Housing.csv in your working directory.
 
 Run the provided Python script.
 
-License
-This project is for educational purposes. Data source: Housing datase
+License:
+This project is for educational purposes. Data source: Housing database
